@@ -1,4 +1,4 @@
-# **Data_Structure...mini_assembler**
+# **data-structure-mini-assembler**
 ## &ensp;Project while taking a data structure class
 
 #### &emsp;*SIC* consists of 8 bits in one byte.
